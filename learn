@@ -1,7 +1,16 @@
 http://comandosgit.github.io/
 
+novo comando:
+git stash
+git stash list
 
 
+comandos básicos:
+git pull origin develop
+git push origin develop
+git status
+git branch
+git checkout -b [nome da nova branch]
 
 
 
